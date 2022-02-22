@@ -1,7 +1,7 @@
 // Netlify에 Deploy 시킴
 
 import React from 'react';
-import './app.css';
+import './App.css';
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import {
   BrowserRouter as Router,
