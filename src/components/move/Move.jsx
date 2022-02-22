@@ -3,11 +3,7 @@
 import React from 'react'
 import './move.css';
 import Front from '../../images/front.png';
-<<<<<<< HEAD
 import Back from '../../images/back1.png';
-=======
-import Back from '../../images/back.png';
->>>>>>> 1218dd0a67f4928404db0b8ee20cf327717316ef
 import Abroad from '../../images/abroad.jpg';
 import Truck from '../../images/truck1.jpg';
 
