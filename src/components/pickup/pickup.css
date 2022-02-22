@@ -1,0 +1,78 @@
+.service-pickup1 {
+  /* background-image: url('../../images/v_bg1.jpg'); */
+}
+
+.service-pickup1 .inner {
+  height: 400px;
+}
+
+.service-pickup1 .inner .pickup {
+  position: absolute;
+  width: 700px;
+  height: 400px;
+  top: 70px;
+}
+
+.service-pickup1 .inner .floating {
+  position: absolute;
+  width: 230px;
+  height: 330px;
+  top: 100px;
+  left: 300px;
+}
+
+.service-pickup1 .text_group {
+  position: absolute;
+  top: 110px;
+  right: 100px;
+}
+
+.service-pickup1 .text_group .title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.service-pickup1 .text_group .description {
+  margin-bottom: 15px;
+}
+
+.service-pickup2 {
+  /* background-image: url("../../images/reserve_bg.jpg"); */
+}
+
+.service-pickup2 .inner {
+  height: 400px;
+}
+
+.service-pickup2 .pickup2_logo {
+  position: absolute;
+  top: 90px;
+  left: 0;
+}
+
+.service-pickup2 .text_group {
+  position: absolute;
+  top: 110px;
+  left: 208px;
+}
+
+.service-pickup2 .text_group .title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.service-pickup2 .text_group .description {
+  margin-bottom: 15px;
+  color: rgb(44, 204, 130);
+}
+
+.service-pickup2 .pickup2 {
+  position: absolute;
+  width: 560px;
+  height: 300px;
+  top: 50px;
+  right: -50px;
+}

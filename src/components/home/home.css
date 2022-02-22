@@ -1,0 +1,37 @@
+.home {
+  margin-top: 120px;
+  /* background-image: url("../../images/visual_bg.jpg"); */
+  background-position: center;
+}
+
+.home .inner {
+  height: 646px;
+}
+
+.home .title {
+  position: absolute;
+  top: 20px;
+  left: 0;
+}
+
+.home .box1.image {
+  position: absolute;
+  top: 58px;
+  right: -20px;
+}
+
+.home .box2.image {
+  position: absolute;
+  top: 190px;
+  right: 240px;
+}
+
+.home .box3.image {
+  position: absolute;
+  bottom: -20px;
+  left: 60px;
+}
+
+.home .fade-in {
+  opacity: 0;
+}

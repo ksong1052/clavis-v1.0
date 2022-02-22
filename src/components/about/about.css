@@ -1,0 +1,49 @@
+.about {
+  position: relative;
+}
+
+.about .bg-left {
+  width: 50%;
+  height: 100%;
+  background-color: #272727;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.about .bg-right {
+  width: 50%;
+  height: 100%;
+  background-color: #272727;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.about .inner {
+  /* background-image: url("../../images/about1.png"); */
+  height: 241px;
+}
+
+.about .btn-group {
+  position: absolute;
+  bottom: 50px;
+  right: 0;
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .about .btn-group .btn.signup,
+.about .btn-group .btn.signin {
+
+}
+
+.about .btn-group .btn.signup:hover,
+.about .btn-group .btn.signin:hover {
+
+} */
+
+.about .btn-group .btn.btn-white.sign-up {
+  margin-bottom: 65px;
+}

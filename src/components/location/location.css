@@ -1,0 +1,46 @@
+.location {
+  /* background-image: url("../../images/find_store_bg.jpg"); */
+}
+
+.location .inner {
+  height: 400px;
+}
+
+.location .inner .texture1 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.location .picture {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.location .inner .picture.picture1 {
+  top: -60px;
+  left: 0;
+}
+
+.location .inner .picture.picture2 {
+  top: 120px;
+  left: 220px;
+}
+
+.location .text-group {
+  position: absolute;
+  top: 70px;
+  left: 550px;
+}
+
+.location .text-group .title {
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.location .text-group .description {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
