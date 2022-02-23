@@ -78,8 +78,8 @@
 
 .favorite-move2 .medal .back .btn {
   position: absolute;
-  top: 240px;
+  top: 200px;
   left: 0;
-  right: 0;
+  right: 60px;
   margin: auto;
 }
