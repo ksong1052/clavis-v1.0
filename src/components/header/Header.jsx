@@ -3,7 +3,7 @@ import './header.css';
 import { Link } from "react-router-dom";
 import Logo from '../../images/clavis_logo.png';
 import Badge from '../../images/badge1.jpg';
-import Background from '../../images/visual_bg.jpg';
+// import Background from '../../images/visual_bg.jpg';
 import Button from '@mui/material/Button';
 import RequestQuoteIcon from '@mui/icons-material/RequestQuote';
 import HowToRegIcon from '@mui/icons-material/HowToReg';
